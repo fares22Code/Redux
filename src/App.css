@@ -1,0 +1,29 @@
+.todoapp{
+
+    background-color: whitesmoke;
+}
+
+
+.center{
+    text-align: center;
+    
+}
+.container{
+    display: aflex;
+    flex-direction: column;
+   
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.button{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
